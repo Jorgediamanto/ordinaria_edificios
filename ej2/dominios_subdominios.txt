@@ -1,0 +1,29 @@
+Arquitectura:
+
+En el ámbito de la arquitectura, nuestro sistema debe abordar diversos elementos. Empezando por los Estilos Arquitectónicos, cada uno con su propio conjunto de atributos como nombre,
+ características distintivas y la época predominante en la que se destacaron. La interacción con este dominio implica la posibilidad de resaltar elementos característicos a través de métodos específicos.
+
+Dentro de los Tipos de Edificios, se consideran atributos como nombre, función y capacidad. Para interactuar con este dominio, se diseñan métodos que facilitan la creación y visualización de información detallada. También, los Elementos Arquitectónicos poseen atributos como tipo,
+ material y estilo. Los métodos asociados aquí pueden calcular propiedades específicas y gestionar la apariencia de dichos elementos.
+
+Ingeniería Estructural:
+
+La Ingeniería Estructural se centra en la solidez de la construcción. El dominio Diseño Estructural incluye atributos como tipo de estructura y materiales utilizados. Métodos asociados permiten el análisis y la validación de la resistencia estructural. Además, el Análisis de Cargas incorpora atributos como cargas gravitacionales y sísmicas, con métodos para evaluar su impacto y tomar decisiones informadas.
+
+Gestión de Proyectos:
+
+La Gestión de Proyectos abarca desde la planificación hasta la implementación. En el dominio de Planificación del Proyecto, se definen tareas y fechas límite. 
+Métodos permiten la organización efectiva de los recursos, reflejada en el subdominio de Recursos que incluye la asignación de personal y maquinaria. La gestión efectiva se logra mediante el subdominio de Seguimiento y Control, 
+que monitorea el progreso y realiza ajustes según sea necesario. El dominio financiero, Presupuesto y Finanzas, incorpora métodos para estimar y controlar costos.
+
+Regulación:
+
+El dominio de Regulación se ocupa de las normativas y permisos. Normativas de construcción definen reglas y regulaciones, mientras que la Zonificación impone restricciones de uso del suelo. 
+La obtención de Licencias y Permisos implica procesos específicos para garantizar el cumplimiento de las normas y la legalidad del proyecto.
+
+Este enfoque de Domain-Driven Design (DDD) permite modelar de manera efectiva la complejidad y la variedad inherentes a la arquitectura y la construcción de edificios, proporcionando una base sólida para el desarrollo de software orientado al dominio.
+
+
+
+
+
